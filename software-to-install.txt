@@ -1,0 +1,39 @@
+quicksilver
+menumeters
+divvy
+sublime text 2
+mail act-on
+vmware fusion
+xcode
+
+keynote
+gitbox
+tilemill
+chrome
+chrome canary
+firefox
+dropbox
+1password
+jumpcut
+colloqy
+openterminalhere
+
+Command Line Tools for Xcode @ http://developer.apple.com/downloads
+
+homebrew - /usr/bin/ruby -e "$(/usr/bin/curl -fksSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"
+easy_install pip
+pip install fabric virtualenv virtualenvwrapper
+brew install git wget fortune redis mysql memcached gnutls
+gem install heroku
+
+
+brew install git-flow
+wget https://raw.github.com/marcelor/fabric-bash-autocompletion/master/fab; sudo mkdir /etc/bash_completion.d/;sudo mv fab /etc/bash_completion.d/
+
+
+# Add the following to your ~/.profile or ~/.bash_profile
+source `brew --prefix git`/etc/bash_completion.d/git-completion.bash
+source ~/git-completion.bash
+source /etc/bash_completion.d/fab
+
+
