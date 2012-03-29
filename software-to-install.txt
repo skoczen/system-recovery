@@ -25,7 +25,7 @@ MySQL from: http://www.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.22-osx10.6-x8
 Homebrew and goodies - 
 /usr/bin/ruby -e "$(/usr/bin/curl -fksSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"
 easy_install pip
-pip install fabric virtualenv virtualenvwrapper
+pip install virtualenv virtualenvwrapper
 brew install git wget fortune redis memcached gnutls postgresql
 gem install heroku
 brew install git-flow
