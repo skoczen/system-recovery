@@ -18,18 +18,18 @@ jumpcut
 colloqy
 openterminalhere
 
-Command Line Tools for Xcode @ http://developer.apple.com/downloads
+Command Line Tools for Xcode from: http://developer.apple.com/downloads
+MySQL from: http://www.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.22-osx10.6-x86.dmg/from/http://mysql.mirrors.pair.com/
+( from http://www.mysql.com/downloads/mirror.php?id=406883#mirrors )
 
-homebrew - /usr/bin/ruby -e "$(/usr/bin/curl -fksSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"
+Homebrew and goodies - 
+/usr/bin/ruby -e "$(/usr/bin/curl -fksSL https://raw.github.com/mxcl/homebrew/master/Library/Contributions/install_homebrew.rb)"
 easy_install pip
 pip install fabric virtualenv virtualenvwrapper
-brew install git wget fortune redis mysql memcached gnutls
+brew install git wget fortune redis memcached gnutls postgresql
 gem install heroku
-
-
 brew install git-flow
 wget https://raw.github.com/marcelor/fabric-bash-autocompletion/master/fab; sudo mkdir /etc/bash_completion.d/;sudo mv fab /etc/bash_completion.d/
-
 
 # Add the following to your ~/.profile or ~/.bash_profile
 source `brew --prefix git`/etc/bash_completion.d/git-completion.bash
